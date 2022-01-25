@@ -1,4 +1,4 @@
-# 'PROJECT 2 FALL 2019'-linhv	
+# 'FALL 2019 PROJECT 2' - linhv	
 	PosAvg Class
 		- Read "Mesonet.txt" file using BufferedReader
 		- Store the names of stations into stationID array
